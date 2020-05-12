@@ -27,4 +27,7 @@ This is a simple gui base calculator in python by using tkinter for ui.
 Clone this project to your computer.
 Open project in Pycharm.
 ```
-# View
+# Preview
+<center>
+  <img src="scrennshorts/calculator.gif" " > 
+</center>
